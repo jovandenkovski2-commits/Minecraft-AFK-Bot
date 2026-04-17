@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ChillCraftSMP2.aternos.me",
-    "port": 14212,
-    "version": "1.21.11",
+    "ip": "_minecraft2026.aternos.me",
+    "port": 28186,
+    "version": "26.1.2 (7)",
     "try-creative": false
   },
   "position": {
